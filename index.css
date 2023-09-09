@@ -89,7 +89,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("./media/hero.jpg");
+    ,url("./media/hero2.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -141,7 +141,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("./media/front-end.jpg");
+    ,url("./media/hero.png");
 
 }
 
@@ -151,7 +151,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("./media/full-stack.jpg");
+    ,url("./media/fullstack.png");
 }
 
 .carta:nth-child(3){
@@ -252,7 +252,7 @@ footer .container{
     }
 
     #somos-proya .img-container{
-        background-image: url("./media/somos-proya.jpg");
+        background-image: url("./media/hero.png");
         background-size: cover;
         background-position: center center;
         height: 500px;
@@ -292,7 +292,7 @@ footer .container{
             rgba(0,0,0,0.5),
             rgba(0,0,0,0.5)
         )
-        ,url("./media/front-end-cropped.jpg");
+        ,url("./media/epic.jpg");
 
     }
 
@@ -302,7 +302,7 @@ footer .container{
             rgba(0,0,0,0.5),
             rgba(0,0,0,0.5)
         )
-        ,url("./media/full-stack-cropped.jpg");
+        ,url("./media/libros.webp");
     }
 
     .carta:nth-child(3){
@@ -311,12 +311,12 @@ footer .container{
             rgba(0,0,0,0.5),
             rgba(0,0,0,0.5)
         )
-        ,url("./media/python-cropped.jpg");
+        ,url("./media/1682.jpg");
 
     }
 
     #caracteristicas{
-        background-image: url("./media/background-2.jpeg");
+        background-image: url("./media/virtual.jpg");
         background-repeat: no-repeat;
         background-size: 500px 400px;
         background-position: calc(100vw - 500px) 120px;
